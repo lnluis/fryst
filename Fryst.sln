@@ -1,7 +1,7 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Fryst", "Fryst\Fryst.csproj", "{06C5E485-15C2-4840-87FF-61D9887ADA87}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shell", "Fryst\Shell.csproj", "{06C5E485-15C2-4840-87FF-61D9887ADA87}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
