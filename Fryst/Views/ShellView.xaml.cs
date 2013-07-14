@@ -2,9 +2,9 @@
 
 namespace Fryst.Views
 {
-    public partial class TestView : PhoneApplicationPage
+    public partial class ShellView : PhoneApplicationPage
     {
-        public TestView()
+        public ShellView()
         {
             InitializeComponent();
         }
